@@ -6,6 +6,7 @@
 - **Training plan:** [syllabus/Week-1_Training_Plan.docx](syllabus/Week-1_Training_Plan.docx) (summarised below)
 - **Progress tracking:** your *W1* card on the DS October Trello board
 - **Daily scrum:** 09:15 every day
+- **Tuesday 13 Oct presentation:** [PRESENTATION.md](PRESENTATION.md). Your dataset and problem statement are on your W1 Trello card
 
 ## How to work in this repo
 
